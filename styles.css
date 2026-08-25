@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+    margin: 30px;
+    border: 2px solid rgb(135, 132, 132);
+    text-align: center;
+    
+}
+li {
+    border: 2px solid rgb(241, 217, 84);
+    padding: 10px;
+    margin: 10px;
+}
+#first-recipe {
+    background-color: rgb(53, 235, 53);
+}
+#second_recipe {
+    background-color: rgb(244, 71, 71);
+}
+#third-recipe {
+    background-color: rgb(240, 240, 56);
+}
